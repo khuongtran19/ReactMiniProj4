@@ -1,3 +1,7 @@
+This project was practice re-create youtube page
+
+By using Google API to get video from youtube server.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
